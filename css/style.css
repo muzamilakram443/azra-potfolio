@@ -1,0 +1,39 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #0077cc;
+}
+section {
+  padding: 30px;
+}
+.profile-pic {
+  width: 150px;
+  border-radius: 100px;
+}
+.projects {
+  display: flex;
+  gap: 20px;
+}
+.card {
+  background: #eaeaea;
+  padding: 15px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #f0f0f0;
+}
